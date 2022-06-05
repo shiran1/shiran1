@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @shira
 - 👀 I’m interested in web design and development
+- I know Python, Django, DRF .net and C# 
 
 
 
