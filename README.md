@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shiran
 - 👀 I’m interested are Web Design and Web Development
-- I know C#|.Net and Python
+- I know C# | .Net and Python | Django
 
 
 
