@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shiran
-- 👀 I’m interested are Web Design and Web Development
-- I am interested in C#-.Net and Python-Django
-
+- 👀 I’m passionate developer interest in web design, development and software engineering in general 
 
 
 <!---
